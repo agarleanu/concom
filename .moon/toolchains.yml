@@ -1,0 +1,3 @@
+rust:
+  syncToolchainConfig: true
+  bins: ["cargo-dist"]

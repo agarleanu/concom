@@ -1,0 +1,8 @@
+projects:
+  concom: "."
+
+defaultProject: "concom"
+
+vcs:
+  defaultBranch: "main"
+  provider: "github"
