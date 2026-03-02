@@ -6,7 +6,10 @@ use inquire::{InquireError, Select};
 
 use crate::{
     generated::{GITMOJIS, Gitmoji},
-    utils::truncate::truncate_to_fit,
+    utils::{
+        styles::{CLEAR_RENDER_CONFIG, answered, muted},
+        truncate::truncate_to_fit,
+    },
 };
 
 impl Display for Gitmoji {
@@ -18,11 +21,18 @@ impl Display for Gitmoji {
         } else {
             ""
         };
+
+        let emoji = if !self.emoji.is_empty() {
+            &format!("{} ", self.emoji)
+        } else {
+            ""
+        };
+
         write!(
             f,
-            "{} {} {}{}",
+            "{} {}{}{}",
             self.code,
-            self.emoji,
+            emoji.bold(),
             desc.italic().dim(),
             ellipsis
         )
@@ -30,19 +40,40 @@ impl Display for Gitmoji {
 }
 
 pub fn prompt() -> Result<Option<Gitmoji>, InquireError> {
-    let gitmoji = Select::new(
-        "Select the type of change that you're committing.",
-        GITMOJIS.to_vec(),
-    )
-    .with_scorer(&|input, option, _string_value, _idx| -> Option<i64> {
-        let matcher = SkimMatcherV2::default().ignore_case();
-        matcher.fuzzy_match(
-            format!("{} {} {}", option.code, option.name, option.description).as_str(),
-            input,
-        )
-    })
-    .with_formatter(&|a| format!("{}", a.value.emoji))
-    .prompt_skippable();
+    let mut gitmojis = GITMOJIS.to_vec();
 
-    gitmoji
+    gitmojis.insert(
+        0,
+        Gitmoji {
+            emoji: "",
+            entity: "",
+            code: "None",
+            description: "No gitmoji",
+            name: "",
+            semver: None,
+        },
+    );
+
+    let gitmoji = Select::new("Gitmoji:", gitmojis)
+        .with_render_config(*CLEAR_RENDER_CONFIG)
+        .with_scorer(&|input, option, _string_value, _idx| -> Option<i64> {
+            let matcher = SkimMatcherV2::default().ignore_case();
+            matcher.fuzzy_match(
+                &format!("{} {} {}", option.code, option.name, option.description),
+                input,
+            )
+        })
+        .with_formatter(&|a| {
+            if a.value.emoji.is_empty() {
+                return muted("<no gitmoji>");
+            }
+            answered(a.value.emoji)
+        })
+        .prompt()?;
+
+    if gitmoji.emoji.is_empty() {
+        return Ok(None);
+    }
+
+    Ok(Some(gitmoji))
 }

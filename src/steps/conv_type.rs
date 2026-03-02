@@ -6,7 +6,10 @@ use inquire::{InquireError, Select};
 
 use crate::{
     generated::{COMMIT_TYPES, CommitType},
-    utils::truncate::truncate_to_fit,
+    utils::{
+        styles::{BASE_RENDER_CONFIG, answered},
+        truncate::truncate_to_fit,
+    },
 };
 
 impl Display for CommitType {
@@ -23,19 +26,18 @@ impl Display for CommitType {
 }
 
 pub fn prompt() -> Result<CommitType, InquireError> {
-    let commit_type: Result<CommitType, InquireError> = Select::new(
-        "Select the type of change that you're committing.",
-        COMMIT_TYPES.to_vec(),
-    )
-    .with_scorer(&|input, option, _string_value, _idx| -> Option<i64> {
-        let matcher = SkimMatcherV2::default().ignore_case();
-        matcher.fuzzy_match(
-            format!("{} {} {}", option.key, option.title, option.description).as_str(),
-            input,
-        )
-    })
-    .with_formatter(&|a| format!("{}", a.value.key))
-    .prompt();
+    let commit_type: Result<CommitType, InquireError> =
+        Select::new("Change type:", COMMIT_TYPES.to_vec())
+            .with_render_config(*BASE_RENDER_CONFIG)
+            .with_scorer(&|input, option, _string_value, _idx| -> Option<i64> {
+                let matcher = SkimMatcherV2::default().ignore_case();
+                matcher.fuzzy_match(
+                    &format!("{} {} {}", option.key, option.title, option.description),
+                    input,
+                )
+            })
+            .with_formatter(&|a| answered(a.value.key))
+            .prompt();
 
     commit_type
 }

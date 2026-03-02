@@ -10,6 +10,7 @@ fuzzy-matcher = "0.3.7"
 inquire = { version = "0.9.4", features = ["date", "editor", "macros", "crossterm"]}
 inquire-derive = "0.9.4"
 crossterm = "0.29"
+arboard = "3"
 
 [build-dependencies]
 dotenvy = "0.15"

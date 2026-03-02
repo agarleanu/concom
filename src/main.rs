@@ -9,13 +9,8 @@ use crossterm::{
 fn main() -> std::io::Result<()> {
     execute!(stdout(), Clear(ClearType::All))?;
 
-    match run() {
-        Ok(commit) => {
-            println!("{}", commit)
-        }
-        Err(err) => {
-            eprintln!("{}", err)
-        }
+    if let Err(err) = run() {
+        eprintln!("{}", err);
     }
 
     Ok(())
