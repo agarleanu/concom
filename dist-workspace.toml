@@ -19,3 +19,5 @@ install-updater = true
 npm-scope = "@concom"
 # The npm package should have this name
 npm-package = "cli"
+# Publish jobs to run in CI
+publish-jobs = ["npm"]
