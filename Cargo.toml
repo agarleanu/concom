@@ -5,6 +5,7 @@ edition = "2024"
 repository = "https://github.com/agarleanu/concom"
 description = "CLI for Conventional Commits, with Gitmoji support."
 homepage = "https://github.com/agarleanu/concom"
+license-file = "LICENSE"
 
 [dependencies]
 chrono = "0.4.44"
