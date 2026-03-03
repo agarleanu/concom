@@ -14,7 +14,7 @@ use crate::{
 
 impl Display for CommitType {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        let prefix_len = self.key.len() + 1; // key + space
+        let prefix_len = self.key.len() + 4;
         let desc = truncate_to_fit(self.description, prefix_len);
         let ellipsis = if desc.len() < self.description.len() {
             "…"

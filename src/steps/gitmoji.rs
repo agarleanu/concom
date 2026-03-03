@@ -14,7 +14,7 @@ use crate::{
 
 impl Display for Gitmoji {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        let prefix_len = self.code.len() + 3; // code + space + emoji + space
+        let prefix_len = self.code.len() + 7;
         let desc = truncate_to_fit(self.description, prefix_len);
         let ellipsis = if desc.len() < self.description.len() {
             "…"

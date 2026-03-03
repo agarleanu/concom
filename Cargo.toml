@@ -1,8 +1,10 @@
 [package]
 name = "concom"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 repository = "https://github.com/agarleanu/concom"
+description = "CLI for Conventional Commits, with Gitmoji support."
+homepage = "https://github.com/agarleanu/concom"
 
 [dependencies]
 chrono = "0.4.44"
@@ -11,6 +13,7 @@ inquire = { version = "0.9.4", features = ["date", "editor", "macros", "crosster
 inquire-derive = "0.9.4"
 crossterm = "0.29"
 arboard = "3"
+unicode-truncate = { version = "2", default-features = false }
 
 [build-dependencies]
 dotenvy = "0.15"
