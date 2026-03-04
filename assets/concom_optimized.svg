@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="508mm" height="285.75mm" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient33147" x1="1980.3" x2="1980.3" y1="2440.1" y2="2725.9" gradientTransform="matrix(1 0 0 .99999 -1928.2 -2498.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e0110" offset="0"/>
+   <stop stop-color="#18041b" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath33074">
+   <rect x="1726.3" y="2440.1" width="508" height="285.75" rx="0" ry="21.167" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="31.476" style="paint-order:markers stroke fill"/>
+  </clipPath>
+  <filter id="filter33075" x="-.014517" y="-.022872" width="1.0324" height="1.0486" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="1" numOctaves="3" result="result0" type="fractalNoise"/>
+   <feColorMatrix result="result4" type="saturate" values="0"/>
+   <feComposite in="SourceGraphic" in2="result4" k1="1.25" k2="0.5" k3="0.5" operator="arithmetic" result="result2"/>
+   <feBlend in="result2" in2="SourceGraphic" result="result5"/>
+   <feComposite in="result5" in2="SourceGraphic" operator="in" result="result3"/>
+  </filter>
+  <filter id="filter33071" x="-.017957" y="-.023475" width="1.0359" height="1.0469" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.8424128"/>
+  </filter>
+  <filter id="filter26610" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26609" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26608" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26607" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26606" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26605" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26604" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26603" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26602" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26601" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26600" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26599" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26598" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26597" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26596" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26595" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26594" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="filter26608-7" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26600-3" x="-.048618" y="-.0090015" width="1.0972" height="1.018" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26610-3" x="-.25636" y="-.01174" width="1.5127" height="1.0235" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26609-5" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26607-8" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26606-2" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26605-9" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26604-1" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26603-0" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26602-0" x="-.25636" y="-.024893" width="1.5127" height="1.0498" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26601-4" x="-.082331" y="-.0094972" width="1.1647" height="1.019" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26599-5" x="-.040867" y="-.010456" width="1.0817" height="1.0209" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26598-9" x="-.03411" y="-.011196" width="1.0682" height="1.0224" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26597-4" x="-.029083" y="-.011722" width="1.0582" height="1.0234" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26596-6" x="-.02139" y="-.010293" width="1.0428" height="1.0206" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26595-0" x="-.019399" y="-.010937" width="1.0388" height="1.0219" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+  <filter id="filter26594-6" x="-.016401" y="-.010693" width="1.0328" height="1.0214" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="7.14872 9.25789" numOctaves="5" result="turbulence" seed="190" type="fractalNoise"/>
+   <feDisplacementMap in="SourceGraphic" in2="turbulence" result="fbSourceGraphic" scale="50" xChannelSelector="R" yChannelSelector="G"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feMorphology in="fbSourceGraphic" radius="4" result="result0"/>
+   <feGaussianBlur in="result0" result="result91" stdDeviation="8"/>
+   <feComposite in="fbSourceGraphic" in2="result91" operator="in"/>
+  </filter>
+ </defs>
+ <g transform="translate(201.88 58.208)">
+  <rect x="-201.88" y="-58.208" width="508" height="285.75" rx="0" ry="21.167" fill="url(#linearGradient33147)" stroke-linecap="round" stroke-linejoin="round" stroke-width="31.475" style="paint-order:markers stroke fill"/>
+  <g transform="matrix(1 0 0 .99999 -1928.2 -2498.3)" clip-path="url(#clipPath33074)" filter="url(#filter33075)" opacity=".79424">
+   <g transform="translate(-1.5186e-5)" filter="url(#filter33071)" opacity=".49702">
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m2340 3814.6h59.292v-1294.7h-59.292z" fill="#f82b39" filter="url(#filter26610)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.5851 -.040914 -.086749 -1.2406 1202.2 5355.1)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f74a59" filter="url(#filter26609)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.61534 -.08648 -.18336 -1.3047 1406.7 5579.1)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f72c3d" filter="url(#filter26608)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.52799 -.11223 -.23795 -1.1195 1719.5 5204.2)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#fa4656" filter="url(#filter26607)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.49146 -.14092 -.2988 -1.042 1958.5 5078.5)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f7192e" filter="url(#filter26606)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.46777 -.17026 -.36099 -.99181 2178.4 5015.5)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f5061a" filter="url(#filter26605)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.53075 -.23631 -.50104 -1.1253 2424.5 5432.2)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#fa4d5b" filter="url(#filter26604)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.49758 -.26457 -.56097 -1.055 2655.7 5321.9)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f92137" filter="url(#filter26603)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.50681 -.31669 -.67147 -1.0746 2928 5456.4)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f94756" filter="url(#filter26602)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m2270.4 3967.5-73.063-5.109 111.56-1595.4 73.063 5.109z" fill="#f94958" filter="url(#filter26601)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m2130.1 4011.6-76.839-10.799 235.8-1677.8 76.839 10.799z" fill="#f83447" filter="url(#filter26600)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m2009.5 3894.1-65.932-14.014 306-1439.6 65.932 14.014z" fill="#f83447" filter="url(#filter26599)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m1888 3846.1-61.37-17.598 384.25-1340 61.37 17.598z" fill="#f95e6b" filter="url(#filter26598)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m1766.5 3815.6-58.413-21.26 464.23-1275.5 58.413 21.26z" fill="#f95866" filter="url(#filter26597)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m1600.3 3905.6-66.277-29.508 644.32-1447.2 66.277 29.508z" fill="#f84958" filter="url(#filter26596)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m1479.7 3862.2-62.135-33.038 721.39-1356.7 62.135 33.038z" fill="#f81025" filter="url(#filter26595)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 855.16 970.91)" d="m1329.2 3878-63.287-39.546 863.5-1381.9 63.287 39.546z" fill="#f8182a" filter="url(#filter26594)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+   </g>
+   <g transform="translate(927.23 220.8)" opacity=".32803">
+    <path transform="matrix(.61534 -.08648 -.18336 -1.3047 475.93 5379.5)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#f72c3d" filter="url(#filter26608-7)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m2130.1 4011.6-76.839-10.799 235.8-1677.8 76.839 10.799z" fill="#f83447" filter="url(#filter26600-3)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m2340 3814.6h59.292v-1294.7h-59.292z" fill="#f12c39" filter="url(#filter26610-3)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.5851 -.040914 -.086749 -1.2406 271.46 5155.4)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#e93c4c" filter="url(#filter26609-5)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.52799 -.11223 -.23795 -1.1195 788.73 5004.6)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#eb4856" filter="url(#filter26607-8)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.49146 -.14092 -.2988 -1.042 1027.7 4878.8)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#eb1f34" filter="url(#filter26606-2)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.46777 -.17026 -.36099 -.99181 1247.6 4815.9)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#e92636" filter="url(#filter26605-9)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.53075 -.23631 -.50104 -1.1253 1493.8 5232.6)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#eb2938" filter="url(#filter26604-1)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.49758 -.26457 -.56097 -1.055 1724.9 5122.2)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#dd2739" filter="url(#filter26603-0)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.50681 -.31669 -.67147 -1.0746 1997.2 5256.7)" d="m1700.9 1959.3h59.292v610.61h-59.292z" fill="#d12f33" filter="url(#filter26602-0)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m2270.4 3967.5-73.063-5.109 111.56-1595.4 73.063 5.109z" fill="#e71e30" filter="url(#filter26601-4)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m2009.5 3894.1-65.932-14.014 306-1439.6 65.932 14.014z" fill="#e92132" filter="url(#filter26599-5)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m1888 3846.1-61.37-17.598 384.25-1340 61.37 17.598z" fill="#ef4c58" filter="url(#filter26598-9)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m1766.5 3815.6-58.413-21.26 464.23-1275.5 58.413 21.26z" fill="#f02837" filter="url(#filter26597-4)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m1600.3 3905.6-66.277-29.508 644.32-1447.2 66.277 29.508z" fill="#e83d47" filter="url(#filter26596-6)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m1479.7 3862.2-62.135-33.038 721.39-1356.7 62.135 33.038z" fill="#dc2738" filter="url(#filter26595-0)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+    <path transform="matrix(.47482 0 0 .47482 -75.628 771.26)" d="m1329.2 3878-63.287-39.546 863.5-1381.9 63.287 39.546z" fill="#df2834" filter="url(#filter26594-6)" style="font-variation-settings:'wght' 700;paint-order:markers stroke fill"/>
+   </g>
+  </g>
+  <text x="52.597576" y="99.889275" fill="#ffffff" font-family="'Melodrama Variable'" font-size="59.351px" font-weight="300" letter-spacing="0px" stroke-linecap="round" stroke-linejoin="round" stroke-width="66.182" text-align="center" text-anchor="middle" style="paint-order:markers stroke fill" xml:space="preserve"><tspan x="52.597576" y="99.889275" fill="#ffffff" font-family="Betatron" font-weight="normal" stroke-width="66.182">concom</tspan></text>
+ </g>
+</svg>
