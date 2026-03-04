@@ -257,7 +257,7 @@ mod tests {
     fn display_full() {
         let c = ConventionalCommit {
             body: Some("Body.".to_string()),
-            trailers: vec!["BREAKING CHANGE: old API removed".to_string()],
+            trailers: vec!["BREAKING-CHANGE: old API removed".to_string()],
             ..base()
         };
         assert_eq!(

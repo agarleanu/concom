@@ -24,7 +24,7 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     if let Some(message) = &breaking_change
         && !message.is_empty()
     {
-        trailers.push(format!("BREAKING CHANGE: {}", message));
+        trailers.push(format!("BREAKING-CHANGE: {}", message));
     }
 
     let commit = ConventionalCommit {
